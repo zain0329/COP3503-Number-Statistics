@@ -2,7 +2,7 @@
 
 This Number Statistics Project was the first project of my Object Oriented Programming class at the University of North Florida. It shows an understanding of basic programming structures along with how to use methods and built-in Java classes
 
-![Zain Malik (2)](https://github.com/zain0329/COP3503-Number-Statistics/assets/66034863/e2b2b77f-c5c4-4722-b4c9-333ae34c1a2a)
+![Zain Malik (2)](https://github.com/zain0329/COP3503-Number-Statistics/assets/66034863/04f1f488-ed04-46ca-aabb-59e93e34e8aa)
 
 
 
